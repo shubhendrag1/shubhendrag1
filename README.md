@@ -1,4 +1,3 @@
-![logo]([(https://github.com/shubhendrag1/shubhendrag1/blob/main/Tradologo.png))
 <h1 align="center">Hi 👋, I'm Shubhendra Gautam</h1>
 <h3 align="center">B.Tech, Electrical Engineering from IIT-Ropar</h3>
 <img align="right" alt="Algo-Trading" width="400" scr="![image](https://github.com/shubhendrag1/shubhendrag1/assets/36099690/bbef00c7-3a1e-4a0b-9563-cdff2df710ad)">
