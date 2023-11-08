@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/shubhendragautam0069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhendragautam0069" height="30" width="40" /></a>
 <a href="https://fb.com/shubhendra.gautam13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubhendra.gautam13" height="30" width="40" /></a>
 <a href="https://instagram.com/shubhendra_gautam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhendra_gautam_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shubhendragautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shubhendragautam" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Trado_Trade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shubhendragautam" height="30" width="40" /></a>
 <a href="https://discord.gg/shubhendra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shubhendra_" height="30" width="40" /></a>
 </p>
 
