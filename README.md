@@ -3,13 +3,13 @@
 
 
 
-- 🔭 I’m currently working on **Futuristic Algo-Trading Software**
+- 🔭 I’m currently working on **Futuristic Algo-Trading Software** [TRADO](https://trado.web.app/)
 
-- 🌱 I’m currently learning **High Frequency Trading with algo**
+- 🌱 I’m currently Building Algos for **High Frequency Trading**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shubhendragautam0069/](https://www.linkedin.com/in/shubhendragautam0069/)
+- 👨‍💻 All of my projects are available at [Shubhendra Gautam/](https://www.linkedin.com/in/shubhendragautam0069/)
 
-- 📝 I regularly write articles on [https://t.me/Learn_Option_Trading_With_IITian](https://t.me/Learn_Option_Trading_With_IITian)
+- 📝 I regularly write articles on [Learn_Option_Trading_With_IITian](https://t.me/Learn_Option_Trading_With_IITian)
 
 - 📫 How to reach me **shubhendragautam22@gmail.com**
 
