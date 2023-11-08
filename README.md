@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Futuristic Algo-Trading Software** [TRADO](https://trado.web.app/)
 
-- 🌱 I’m currently Building Algos for **High Frequency Trading**
+- 🌱 I’m currently Building Algos for **High Frequency Trading** [TradingView](https://www.tradingview.com/u/Shubhendra07/)
 
 - 👨‍💻 All of my projects are available at [Shubhendra Gautam/](https://www.linkedin.com/in/shubhendragautam0069/)
 
@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **shubhendragautam22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/11a7PdVvYtTgpEJVmaBLZwo_4I2-MAYg4?usp=sharing](https://drive.google.com/drive/folders/11a7PdVvYtTgpEJVmaBLZwo_4I2-MAYg4?usp=sharing)
+- 📄 Know about my experiences [Shubhendra_Gautam_Resume](https://drive.google.com/drive/folders/11a7PdVvYtTgpEJVmaBLZwo_4I2-MAYg4?usp=sharing)
 
-- ⚡ Fun fact **When I'm not immersed in the world of Algo-developing or Trading or SDE/robotics, you'll often find me exploring the Nature, scaling mountains, and satisfying my wanderlust with adventurous travels. 🏞️✈️ #NatureEnthusiast"**
+- ⚡ Fun fact **When I'm not immersed in the world of Algo-developing or Trading or SDE/robotics, you'll often find me exploring Nature, scaling mountains, and satisfying my wanderlust with adventurous travels. 🏞️✈️ #NatureEnthusiast"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
