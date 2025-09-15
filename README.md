@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Futuristic Algo-Trading Software** [TRADO](https://trado.web.app/)
+- 🔭 I’m currently working on **Futuristic Algo-Trading Software** [TRADO](https://www.trado.trade/)
 
 - 🌱 I’m currently Building Algos for **High Frequency Trading** [TradingView](https://www.tradingview.com/u/Shubhendra07/)
 
