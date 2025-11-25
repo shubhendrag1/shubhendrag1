@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Shubhendra+Gautam;Co-Founder+%40+Trado+%7C+IIT+Ropar+'21" alt="Typing SVG" />
+<!-- Animated Header - Slowed down duration and pause -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=5000&pause=5000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Shubhendra+Gautam;Founder+%26+CEO+at+TRADO+%7C+IIT+Ropar" alt="Typing SVG" />
 
 ### 🚀 Building the Future of Algo-Trading in India
 
@@ -16,7 +16,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Trado_Trade)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shubhendra_gautam_)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Learn_Option_Trading_With_IITian)
-[![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)](https://www.tradingview.com/u/Shubhendra07/)
+[![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)](https://www.tradingview.com/u/Trado_Trade/)
+[![MQL5](https://img.shields.io/badge/MQL5-4A76A8?style=for-the-badge&logoColor=white)](https://www.mql5.com/en/users/shubhendrag1)
 
 </div>
 
@@ -26,11 +27,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **CEO & Co-Founder** at [**Trado**](https://www.trado.trade/) - India's fastest algo-trading platform
+- 🔭 **Founder & CEO** at [**Trado**](https://www.trado.trade/) where we are building India's fastest algo-trading platform
 - 🎓 **B.Tech Electrical Engineering** from **IIT Ropar** (2021)
-- 💰 **Backed by [100X.VC](https://100x.vc/)** - Raised ₹1.25 Cr Seed Round
-- 📈 Building **High-Frequency Trading** algorithms
-- 🤖 Deep roots in **Robotics, AR/VR & IoT**
+- 💰 **Backed by [100X.VC](https://100x.vc/)** and raised around ~$150k Pre-Seed Round
+- 📈 Creator of **150+ TradingView Indicators** and **50+ Strategies**
+- 🤖 Developed **50+ Trading Bots** on MetaTrader 5
 - 🏔️ Nature enthusiast & adventure traveler
 
 <br clear="right"/>
@@ -43,24 +44,25 @@
 <tr>
 <td width="55%">
 
-### [Trado](https://www.trado.trade/) - Algo-Trading Platform
+### [Trado](https://www.trado.trade/) - Algo-Trading Ecosystem
 
-Democratizing quantitative trading for Indian retail traders with:
+Democratizing quantitative trading for Indian retail traders.
 
-🎯 **No-Code Strategy Builder** - Complex algos, zero code  
-⚡ **Lightning Execution** - Millisecond-level order placement  
-📊 **7-Year Backtesting** - Test against real market data  
-🔗 **Multi-Broker** - Trade across brokers from one terminal  
-📱 **Paper Trading** - Risk-free strategy testing
+🎯 **No-Code Strategy Builder** : Create complex algos with zero code  
+⚡ **TRADO Terminal** : Lightning execution for intraday & options  
+🧠 **AI Backtesting Engine** : Validate strategies intelligently  
+🔎 **Live F&O Screener** : Real-time market screening  
+🔗 **Multi-Broker** : Trade across brokers from one terminal  
 
 <br>
 
-**600+ Active Traders** | **Backed by 100X.VC**
+**Tested by 6,000+ Traders** | **1.5 Million+ Orders Placed**
+**Backed by 100X.VC**
 
 </td>
 <td width="45%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="280">
+<img src="https://www.trado.trade/_next/image?url=%2FTerminal-SignUp-Mobile.webp&w=3840&q=75" width="200" alt="TRADO Terminal">
 
 <br><br>
 
@@ -82,7 +84,10 @@ Democratizing quantitative trading for Indian retail traders with:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TradingView](https://img.shields.io/badge/Pine_Script-131722?style=for-the-badge&logo=tradingview&logoColor=white)
+![Pine Script](https://img.shields.io/badge/Pine_Script-131722?style=for-the-badge&logo=tradingview&logoColor=white)
+![MQL5](https://img.shields.io/badge/MQL5-4A76A8?style=for-the-badge&logoColor=white)
+![AFL](https://img.shields.io/badge/AFL-FF6600?style=for-the-badge&logoColor=white)
+![NinjaScript](https://img.shields.io/badge/NinjaScript-E4405F?style=for-the-badge&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
@@ -97,7 +102,6 @@ Democratizing quantitative trading for Indian retail traders with:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 </div>
 
@@ -188,7 +192,7 @@ Mobile app connecting farmers with machinery & labor at government-fixed prices 
 </div>
 
 ```
-2023 ─────► 🚀 Co-Founded Trado | Secured ₹1.25 Cr from 100X.VC
+2023 ─────► 🚀 Co-Founded Trado | Secured ~$150k Pre-Seed from 100X.VC
             
 2021 ─────► 🎓 Graduated B.Tech from IIT Ropar
             🏛️ HPAIR Harvard Conference Delegate
@@ -223,7 +227,7 @@ Mobile app connecting farmers with machinery & labor at government-fixed prices 
 
 ---
 
-## 🐍 Contribution Graph
+## 💎 Contribution Graph
 
 <div align="center">
 <picture>
@@ -241,13 +245,23 @@ Mobile app connecting farmers with machinery & labor at government-fixed prices 
 
 **Building something in trading/fintech? Interested in robotics? Let's talk!**
 
-📧 **shubhendragautam22@gmail.com**
-
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+<a href="mailto:shubhendra@trado.trade">
+  <img src="https://img.shields.io/badge/Email-shubhendra%40trado.trade-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+</a>
 
-<br>
+<br><br>
+
+<a href="https://wa.me/919219980701">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat_with_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" />
+</a>
+&nbsp;
+<a href="tel:+919219980701">
+  <img src="https://img.shields.io/badge/Phone-Call_Me-4285F4?style=for-the-badge&logo=google-voice&logoColor=white" height="40" />
+</a>
+
+<br><br>
 
 *"From building robots that farm to algorithms that trade — engineering solutions that scale."*
 
